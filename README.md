@@ -14,7 +14,7 @@
 
 ## 🔗 Connect
 - Portfolio: https://noby.infinityfree.me/
-- LinkedIn: linkedin.com/in/nobytechy
+- LinkedIn: https://www.linkedin.com/in/nobytechy/
 - Email: nobytechy@gmail.com
 
 ## 🎯 Currently
