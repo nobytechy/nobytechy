@@ -19,5 +19,10 @@
 
 ## 🎯 Currently
 - Open to new full-stack development opportunities
-- Building scalable web solutions
-- Available for remote work worldwide
+# 🚀 Building PayNow Connect - Simplified PayNow API Gateway
+
+**A middleware platform that simplifies PayNow Zimbabwe API integration for developers**
+[![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://php.net)
+[![Slim Framework](https://img.shields.io/badge/Slim-4.x-green.svg)](https://www.slimframework.com/)
+[![React](https://img.shields.io/badge/React-18.x-61dafb.svg)](https://reactjs.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
