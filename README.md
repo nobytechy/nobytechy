@@ -9,8 +9,8 @@
 ## 📈 Experience Highlights
 - 7+ years full-stack development experience
 - Lead Developer at Nhau/Indaba News (30+ branch CMS system)
-- Specialized in multi-platform web applications
 - Expert in API integration and payment gateway implementation
+- Specialized in multi-platform web applications
 
 ## 🔗 Connect
 - Portfolio: https://noby.infinityfree.me/
