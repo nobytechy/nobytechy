@@ -107,6 +107,6 @@ preview UI changes via natural language.
 Available for remote contracts and full-time roles. Most comfortable in the React + Node/PHP +
 Postgres/MySQL space, especially anything fintech-adjacent or multi-tenant SaaS for emerging markets.
 
-- **Email:** [centuriongrill@gmail.com](mailto:centuriongrill@gmail.com)
+- **Email:** [nobytechy@gmail.com](mailto:nobytechy@gmail.com)
 - **Portfolio:** [noby.aizim.co.zw](https://noby.aizim.co.zw)
 - **LinkedIn:** [linkedin.com/in/nobytechy](https://www.linkedin.com/in/nobytechy/)
