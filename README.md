@@ -75,8 +75,6 @@ preview UI changes via natural language.
 | **[ManishaPay](https://pay.aizim.co.zw)** · [code](https://github.com/nobytechy/manishapay) | React 18 · Node 20 · Express · Supabase · libsodium | PayNow Zimbabwe middleware. Server-side SHA-512 hash, encrypted credential vault, drop-in checkout JS, signed webhooks, simulated test mode that requires no PayNow account. PHP + Node SDKs published. |
 | **[AiZim ERP](https://aizim.co.zw)** | PHP 7.4 · MySQL · jQuery · cPanel | Production ERP for a hospitality group — branches, regions, stock, expenses, payroll, change-request workflow with HTML preview. Embedded AI assistant via Anthropic tool-use. |
 | **[Chikoro](https://chikoro.aizim.co.zw)** | React 18 · Vite · Supabase RLS · PWA | Multi-tenant school management. Each school on its own subdomain with full row-level security; offline-first for low-connectivity classrooms. |
-| **[Speedify](https://upgrade.ealliance.net/taxi/)** | React + TypeScript · Vite · Supabase · Leaflet · PayNow | InDrive-style ride-hailing for Zimbabwe. Negotiated fares between rider and driver, real-time map, in-app PayNow payments. |
-| **[PriceScout](https://upgrade.ealliance.net/Claude/PriceScout/)** | React · Vite · Supabase · service worker | Offline-first price comparison built for load-shedding reality. Optional AI summary via server-side proxy. |
 | **[Portfolio](https://noby.aizim.co.zw)** | React 18 · Vite · Tailwind · Supabase | Self-managed portfolio — projects and posts editable through a login-gated admin panel, no redeploy required for content changes. |
 
 ---
