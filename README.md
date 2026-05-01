@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://noby.aizim.co.zw"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-noby.aizim.co.zw-047857?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/nobytechy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nobytechy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:centuriongrill@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-centuriongrill%40gmail.com-475569?style=flat-square"></a>
+  <a href="mailto:nobytechy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nobytechy@gmail.com-475569?style=flat-square"></a>
   <img alt="Location" src="https://img.shields.io/badge/Harare,%20Zimbabwe-CAT%20(UTC%2B2)-475569?style=flat-square">
   <img alt="Available" src="https://img.shields.io/badge/Open%20to%20remote%20work-Yes-10b981?style=flat-square">
 </p>
