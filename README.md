@@ -22,7 +22,7 @@
 Building **[ManishaPay](https://pay.aizim.co.zw)** — a middleware that fixes the integration headaches developers
 hit with the **PayNow Zimbabwe** payment gateway. Hash math, decimal/phone normalisation, signed retries,
 drop-in checkout widget, simulated test mode that requires no PayNow account, all wrapped in a clean
-React dashboard. Code at [github.com/nobytechy/manishapay](https://github.com/nobytechy/manishapay).
+React dashboard.
 
 In parallel, maintaining the **AiZim** ERP — a 996-PHP-file production platform serving a Zimbabwean
 hospitality group — with an embedded Claude assistant that lets non-technical users propose and
@@ -72,7 +72,7 @@ preview UI changes via natural language.
 
 | Project | Stack | What it does |
 |---|---|---|
-| **[ManishaPay](https://pay.aizim.co.zw)** · [code](https://github.com/nobytechy/manishapay) | React 18 · Node 20 · Express · Supabase · libsodium | PayNow Zimbabwe middleware. Server-side SHA-512 hash, encrypted credential vault, drop-in checkout JS, signed webhooks, simulated test mode that requires no PayNow account. PHP + Node SDKs published. |
+| **[ManishaPay](https://pay.aizim.co.zw)** ·| React 18 · Node 20 · Express · Supabase · libsodium | PayNow Zimbabwe middleware. Server-side SHA-512 hash, encrypted credential vault, drop-in checkout JS, signed webhooks, simulated test mode that requires no PayNow account. PHP + Node SDKs published. |
 | **[AiZim ERP](https://aizim.co.zw)** | PHP 7.4 · MySQL · jQuery · cPanel | Production ERP for a hospitality group — branches, regions, stock, expenses, payroll, change-request workflow with HTML preview. Embedded AI assistant via Anthropic tool-use. |
 | **[Chikoro](https://chikoro.aizim.co.zw)** | React 18 · Vite · Supabase RLS · PWA | Multi-tenant school management. Each school on its own subdomain with full row-level security; offline-first for low-connectivity classrooms. |
 | **[Portfolio](https://noby.aizim.co.zw)** | React 18 · Vite · Tailwind · Supabase | Self-managed portfolio — projects and posts editable through a login-gated admin panel, no redeploy required for content changes. |
