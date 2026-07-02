@@ -1,148 +1,310 @@
-  <h1 align="center">Hi, I'm Noby Tebulo</h1>
-  <h3 align="center">Full-Stack Web Developer · React · Node · PHP / Laravel · Python · Postgres . Mysql </h3>
+<h1 align="center">Hi, I'm N.Tebulo 👋</h1>
 
-  <p align="center">
-    Software engineer in Harare, Zimbabwe — I build production web platforms end-to-end:
-    database schema, REST APIs, auth, payments, polished React/Tailwind dashboards, PWAs,
-    multi-language UIs and the deploy pipeline that puts it all online.
-  </p>
+<h3 align="center">
+Full-Stack Software Engineer • Product Developer • FinTech • AI • React • Laravel • Node.js • Python
+</h3>
 
-  <p align="center">
-    <a href="https://nobie.netlify.app"><img alt="Portfolio" 
-  src="https://img.shields.io/badge/Portfolio-nobie.netlify.app-047857?style=flat-square"></a>
-    <a href="https://www.linkedin.com/in/nobytechy/"><img alt="LinkedIn" 
-  src="https://img.shields.io/badge/LinkedIn-nobytechy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:nobytechy@gmail.com"><img alt="Email" 
-  src="https://img.shields.io/badge/Email-nobytechy@gmail.com-475569?style=flat-square"></a>
-    <img alt="Location" src="https://img.shields.io/badge/Harare,%20Zimbabwe-CAT%20(UTC%2B2)-475569?style=flat-square">
-    <img alt="Available" src="https://img.shields.io/badge/Open%20to%20remote%20work-Yes-10b981?style=flat-square">
-  </p>
+<p align="center">
+Building secure, scalable and user-focused software for businesses across Africa.
+I enjoy turning complex business workflows into modern digital products—from WhatsApp automation and payment platforms to ERP systems, dashboards and AI-powered applications.
+</p>
 
-  ---
+<p align="center">
 
-  ## Currently
+<a href="https://nobie.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-nobie.netlify.app-047857?style=for-the-badge">
+</a>
 
-  Just shipped **[CAG Travellers Coaches](https://cagtours.netlify.app)** — a full passenger-coach
-  booking platform for Zimbabwe's premier 25-year-old coach operator. Seat-by-seat picker, PayNow
-  payments via ManishaPay, QR-coded ticket on WhatsApp, driver scan portal, realtime operator
-  dashboard, **English / ChiShona / isiNdebele** with browser-native **voice mode**, and an
-  Inclusive Travel Promise flow that flags accessibility needs from booking through to the depot.
+<a href="https://www.linkedin.com/in/nobytechy/">
+<img src="https://img.shields.io/badge/LinkedIn-Nobody%20Tebulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  Maintaining **[ManishaPay](https://pay.aizim.co.zw)** — middleware that fixes the integration
-  headaches developers hit with the **PayNow Zimbabwe** payment gateway. Hash math, decimal/phone
-  normalisation, signed retries, drop-in checkout widget, simulated test mode that requires no
-  PayNow account.
+<a href="mailto:nobytechy@gmail.com">
+<img src="https://img.shields.io/badge/Email-nobytechy@gmail.com-475569?style=for-the-badge">
+</a>
 
-  And the **[AiZim](https://aizim.co.zw)** ERP — a 996-PHP-file production platform serving a
-  Zimbabwean hospitality group — with an embedded Claude assistant that lets non-technical users
-  propose and preview UI changes via natural language.
+<img src="https://img.shields.io/badge/Location-Harare,%20Zimbabwe-475569?style=for-the-badge">
 
-  **Previously** — **Lead Developer** at **Nhau News Online**, where I built and maintained the
-  news platform and an automated news bot, both on **Laravel + MySQL**.
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-10B981?style=for-the-badge">
 
-  ---
+</p>
 
-  ## Tech stack
+---
 
-  **Frontend**
-  &nbsp;
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-  ![Framer%20Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
-  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+# 👨‍💻 About Me
 
-  **Backend**
-  &nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+I'm a **Full-Stack Software Engineer** with **5+ years of experience** designing and developing production software.
 
-  **Database & infra**
-  &nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
-  ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+I specialize in building:
 
-  **Tooling & integrations**
-  &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![Anthropic](https://img.shields.io/badge/Anthropic%20API-D97706?style=flat&logo=anthropic&logoColor=white)
-  ![PayNow](https://img.shields.io/badge/PayNow%20Zimbabwe-047857?style=flat)
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-  ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+- 💳 FinTech & payment platforms
+- 🤖 AI-powered business systems
+- 📲 WhatsApp automation
+- 🏢 ERP & internal business platforms
+- 🌍 Multi-tenant SaaS products
+- 📈 Dashboards & reporting systems
+- 🎨 Modern responsive web applications
 
-  ---
+I enjoy owning projects from **idea → architecture → development → deployment → support.**
 
-  ## Featured work
+---
 
-  | Project | Stack | What it does |
-  |---|---|---|
-  | **[Portfolio](https://nobie.netlify.app)** | React 18 · Vite · Tailwind · Supabase | Self-managed portfolio — projects and posts editable
-  through a login-gated admin panel, no redeploy required for content changes. |
-  | **[CAG Travellers Coaches](https://cagtours.netlify.app)** | React 19 · Vite · Supabase · Leaflet · PWA · i18n | Passenger-coach booking
-  platform — seat picker, PayNow + EcoCash + cash, QR ticket + WhatsApp confirmation via Ultramsg, driver QR-scan portal, realtime new-booking
-  notifier, EN/SN/ND with browser voice mode, accessibility flow that propagates needs from booking to driver. |
-  | **[Ridgecrest Junior School](https://ridgecrest.netlify.app)** | React 18 · Vite · Tailwind · Supabase | Primary-school information system —
-  pupils, staff, fees, role-based access at `/admin/roles`, MoPSE Twitter feed, logo-driven palette built from real school photography.
-  Multi-tenant under the hood — same engine deploys for any school on its own subdomain. |
-  | **[Zim Properties](https://dzimba.netlify.app)** | React 18 · Vite · Tailwind · Supabase | Real-estate listings + property-management platform
-  — agent dashboards, lead capture, PIN-only admin auth, full property lifecycle from listing to sale. |
-  | **[ChurchZim](https://kereke.netlify.app)** | React 18 · Vite · Tailwind · Supabase | Church management platform — congregation register,
-  attendance, tithes & offerings ledger, events, sermon library, PIN-only admin auth. |
-  | **[Orinon Credit](https://credit.orinonstore.co.zw)** | React · Python · PostgreSQL · Docker · Railway | Consumer credit-application platform —
-   applicant workflow, approval queue, document upload, status tracking. |
-  | **[Orinon Store](https://orinonstore.co.zw)** | WordPress · WooCommerce | Custom-themed e-commerce site for an electronics retailer in Harare.
-  | **[ManishaPay](https://pay.aizim.co.zw)** | React 18 · Node 20 · Express · Supabase · libsodium | PayNow Zimbabwe middleware. Server-side
-  SHA-512 hash, encrypted credential vault, drop-in checkout JS, signed webhooks, simulated test mode that requires no PayNow account. PHP + Node
-  SDKs published. |
-  | **[AiZim ERP](https://aizim.co.zw)** | PHP 7.4 · MySQL · jQuery · cPanel | Production ERP for a hospitality group — branches, regions, stock,
-  expenses, payroll, change-request workflow with HTML preview. Embedded AI assistant via Anthropic tool-use. |
-  ---
-  
-  ## Things I'm comfortable owning end-to-end
-  - REST API design — idempotency keys, versioning, signed webhooks, HMAC-SHA256
-  - Multi-tenant SaaS with Postgres RLS, role-based admin/operator/end-user dashboards
-  - Payment integrations (PayNow Zimbabwe) — hash math, tokenisation, retry queues, dispute flow
-  - Auth — Supabase Auth, JWT, bcrypt, libsodium envelope encryption for secrets at rest
-  - Multi-language UIs covering African languages (ChiShona, isiNdebele) with proper i18n architecture
-  - Accessibility — screen-reader-friendly markup, ARIA, browser Web Speech API for read-aloud
-  - Realtime — Supabase channels for live dashboards, booking notifications, in-app chimes
-  - PWA / offline-first builds for low-connectivity classrooms and field-staff apps
-  - Deploys to cPanel / shared hosting (Apache, LiteSpeed, Phusion Passenger), Docker on Railway/Fly, Netlify for SPAs
-  - Embedding LLM features (Anthropic tool-use) into existing apps without rewriting them
-  - Leading and shipping as the most-senior dev on the team (prior Lead Developer role at Nhau News Online)
-  - Writing docs and runbooks that make the system handoff-able
+# 🚀 Current Projects
 
-  ---
+### 🚌 CAG Travellers Coaches
 
-  ## GitHub
+A complete passenger booking platform featuring:
 
-  <p align="left">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nobytechy&show_icons=true&hide_border=true&bg_color=00000000&title_c
-  olor=047857&icon_color=10b981&text_color=475569" alt="GitHub stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobytechy&layout=compact&hide_border=true&bg_color=000000
-  00&title_color=047857&text_color=475569" alt="Top languages" />
-  </p>
+- Seat-by-seat booking
+- PayNow payments
+- WhatsApp ticket delivery
+- QR ticket validation
+- Driver scanning portal
+- Live operator dashboard
+- English / ChiShona / isiNdebele
+- Browser voice mode
+- Accessibility-first booking
 
-  ---
+https://cagtours.netlify.app
 
-  ## Get in touch
+---
 
-  Available for remote contracts and full-time roles. Most comfortable in the React + Node/PHP/Laravel/Python +
-  Postgres/MySQL space, especially anything fintech-adjacent, multi-tenant SaaS, or accessibility-conscious
-  work for emerging markets.
+### 💳 ManishaPay
 
-  - **Email:** [nobytechy@gmail.com](mailto:nobytechy@gmail.com)
-  - **Portfolio:** [nobie.netlify.app](https://nobie.netlify.app)
-  - **LinkedIn:** [linkedin.com/in/nobytechy](https://www.linkedin.com/in/nobytechy/)
+A payment middleware simplifying PayNow Zimbabwe integration.
+
+Features include:
+
+- Secure merchant credential vault
+- Signed webhooks
+- Developer SDKs
+- Drop-in checkout widget
+- Test mode
+- Multi-gateway architecture
+
+https://manishapay.netlify.app
+
+---
+
+### 🏨 AiZim ERP
+
+Production ERP used by a Zimbabwean hospitality group.
+
+Modules include:
+
+- Stock
+- Assets
+- Expenses
+- Cashbook
+- Payroll
+- Reporting
+- AI-powered assistant
+- Workflow approvals
+
+https://aizim.co.zw
+
+---
+
+# 🤖 AI Engineering
+
+I actively integrate AI into production systems.
+
+Experience includes:
+
+- Claude API
+- ChatGPT
+- DeepSeek
+- AI assistants
+- Prompt Engineering
+- Tool Calling
+- AI-powered reporting
+- Workflow automation
+- Natural language interfaces
+
+---
+
+# 📲 WhatsApp Automation
+
+Hands-on experience with:
+
+- WhatsApp Business API
+- UltraMsg
+- ChatAPI
+- Broadcast automation
+- Group management
+- Approval workflows
+- QR notifications
+- Customer communication
+- Internal workflow automation
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- HTML5
+- CSS3
+- Framer Motion
+- Progressive Web Apps (PWA)
+
+---
+
+## Backend
+
+- PHP
+- Laravel
+- Node.js
+- Express
+- Python
+- FastAPI
+- REST APIs
+- JWT Authentication
+
+---
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- Supabase
+
+---
+
+## Payments & FinTech
+
+- PayNow Zimbabwe
+- EcoCash API
+- Stripe
+- Payment middleware
+- Signed Webhooks
+- Subscription billing
+
+---
+
+## Cloud & DevOps
+
+- Docker
+- Netlify
+- Railway
+- Render
+- Cloudflare
+- cPanel
+- Git
+- GitHub
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **CAG Travellers** | Passenger booking platform with payments, WhatsApp tickets, multilingual UI and accessibility features |
+| **ManishaPay** | Unified payment middleware for PayNow and future gateways |
+| **AiZim ERP** | Enterprise ERP for hospitality operations with AI assistant |
+| **Hi-Bred Chicks Website** | Modern website concept for poultry business |
+| **Portfolio** | Personal portfolio with editable CMS |
+| **Ridgecrest Junior School** | School management platform |
+| **Orinon Credit** | Consumer credit application platform |
+| **Zim Properties** | Property management platform |
+| **ChurchZim** | Church management system |
+
+---
+
+# 💼 What I Build
+
+✔ ERP Systems
+
+✔ FinTech Products
+
+✔ Payment Integrations
+
+✔ AI Business Assistants
+
+✔ WhatsApp Automation
+
+✔ Booking Platforms
+
+✔ School Management Systems
+
+✔ Property Platforms
+
+✔ Dashboards
+
+✔ Internal Business Tools
+
+✔ Multi-tenant SaaS
+
+✔ REST APIs
+
+---
+
+# 🎯 Things I Own End-to-End
+
+- Solution Architecture
+- Database Design
+- API Development
+- Authentication & Security
+- Payment Integrations
+- Dashboard Development
+- Responsive UI/UX
+- AI Integration
+- Deployment
+- Documentation
+- Production Support
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=nobytechy&show_icons=true&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobytechy&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Build Something Great
+
+I'm available for:
+
+- Full-Stack Software Engineering
+- Product Development
+- Technical Consulting
+- FinTech Projects
+- AI & Automation
+- React Development
+- Laravel Development
+- Node.js Development
+- API Integrations
+- UI/UX-focused Front-End Engineering
+
+Whether you're building a startup MVP, modernising an existing platform or automating business workflows, I'd love to help.
+
+---
+
+## 📫 Contact
+
+📧 **Email**
+
+nobytechy@gmail.com
+
+🌐 **Portfolio**
+
+https://nobie.netlify.app
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/nobytechy/
+
+⭐ Thanks for stopping by!
