@@ -16,7 +16,7 @@ I enjoy turning complex business workflows into modern digital products—from W
 </a>
 
 <a href="https://www.linkedin.com/in/nobytechy/">
-<img src="https://img.shields.io/badge/LinkedIn-Nobody%20Tebulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Noby%20Tebulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:nobytechy@gmail.com">
