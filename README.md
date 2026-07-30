@@ -1,310 +1,218 @@
-<h1 align="center">Hi, I'm N.Tebulo 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Software Engineer • Product Developer • FinTech • AI • React • Laravel • Node.js • Python
-</h3>
+# Hi, I'm N.Tebulo 👋
 
-<p align="center">
-Building secure, scalable and user-focused software for businesses across Africa.
-I enjoy turning complex business workflows into modern digital products—from WhatsApp automation and payment platforms to ERP systems, dashboards and AI-powered applications.
-</p>
+### Full-Stack Software Engineer • Product Builder • FinTech • AI • ERP
 
-<p align="center">
+Building secure, scalable software that solves real business problems across Africa.
+
+<p>
 
 <a href="https://nobie.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-nobie.netlify.app-047857?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0ea5e9?style=for-the-badge">
 </a>
 
 <a href="https://www.linkedin.com/in/nobytechy/">
-<img src="https://img.shields.io/badge/LinkedIn-Noby%20Tebulo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Noby_Tebulo-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:nobytechy@gmail.com">
-<img src="https://img.shields.io/badge/Email-nobytechy@gmail.com-475569?style=for-the-badge">
+<img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge">
 </a>
 
-<img src="https://img.shields.io/badge/Location-Harare,%20Zimbabwe-475569?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-10B981?style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=nobytechy&style=for-the-badge&color=0ea5e9"/>
 
 </p>
 
----
-
-# 👨‍💻 About Me
-
-I'm a **Full-Stack Software Engineer** with **5+ years of experience** designing and developing production software.
-
-I specialize in building:
-
-- 💳 FinTech & payment platforms
-- 🤖 AI-powered business systems
-- 📲 WhatsApp automation
-- 🏢 ERP & internal business platforms
-- 🌍 Multi-tenant SaaS products
-- 📈 Dashboards & reporting systems
-- 🎨 Modern responsive web applications
-
-I enjoy owning projects from **idea → architecture → development → deployment → support.**
+</div>
 
 ---
 
-# 🚀 Current Projects
+# 💻 About Me
 
-### 🚌 CAG Travellers Coaches
+I'm a Full-Stack Software Engineer from **Harare, Zimbabwe** with **5+ years** of experience designing, building and deploying production software.
 
-A complete passenger booking platform featuring:
+I enjoy transforming business ideas into scalable products covering:
 
-- Seat-by-seat booking
-- PayNow payments
-- WhatsApp ticket delivery
-- QR ticket validation
-- Driver scanning portal
-- Live operator dashboard
-- English / ChiShona / isiNdebele
-- Browser voice mode
-- Accessibility-first booking
+- 💳 FinTech & Payments
+- 🏢 ERP Systems
+- 🤖 AI Applications
+- 📲 WhatsApp Automation
+- 🌍 SaaS Platforms
+- 📊 Dashboards & Analytics
+- 🔗 API Integrations
 
-https://cagtours.netlify.app
+I love building software from **idea → architecture → deployment → production**.
 
 ---
 
-### 💳 ManishaPay
+# 🚀 Featured Products
 
-A payment middleware simplifying PayNow Zimbabwe integration.
+## 💳 ManishaPay
 
-Features include:
+Unified Payment Platform
 
-- Secure merchant credential vault
-- Signed webhooks
-- Developer SDKs
-- Drop-in checkout widget
-- Test mode
-- Multi-gateway architecture
+One API connecting multiple payment gateways.
 
-https://manishapay.netlify.app
+✔ Stripe
+
+✔ PayPal
+
+✔ Flutterwave
+
+✔ Paystack
+
+✔ PayNow
+
+✔ M-Pesa
+
+✔ EcoCash
+
+✔ Payment Links
+
+✔ Test Mode
+
+🌐 https://manishapay.netlify.app
 
 ---
 
-### 🏨 AiZim ERP
+## 🏢 AIZim ERP
 
-Production ERP used by a Zimbabwean hospitality group.
+Enterprise Resource Planning Platform
 
 Modules include:
 
-- Stock
+- Finance
+- Inventory
 - Assets
-- Expenses
 - Cashbook
 - Payroll
+- HR
 - Reporting
-- AI-powered assistant
-- Workflow approvals
-
-https://aizim.co.zw
+- AI Assistant
+- Workflow Automation
 
 ---
 
-# 🤖 AI Engineering
+## 🚌 CAG Travellers
 
-I actively integrate AI into production systems.
+Modern Passenger Booking Platform
 
-Experience includes:
+Features:
 
-- Claude API
-- ChatGPT
-- DeepSeek
-- AI assistants
-- Prompt Engineering
-- Tool Calling
-- AI-powered reporting
-- Workflow automation
-- Natural language interfaces
+- Online Booking
+- QR Tickets
+- WhatsApp Delivery
+- PayNow Payments
+- Voice Booking
+- Accessibility
+- Live Operations Dashboard
 
 ---
 
-# 📲 WhatsApp Automation
+# ⚡ Tech Stack
 
-Hands-on experience with:
+### Frontend
 
-- WhatsApp Business API
-- UltraMsg
-- ChatAPI
-- Broadcast automation
-- Group management
-- Approval workflows
-- QR notifications
-- Customer communication
-- Internal workflow automation
+React • TypeScript • JavaScript • Vite • Tailwind CSS • PWA
 
----
+### Backend
 
-# 🛠 Tech Stack
+Python • FastAPI • Django • PHP • Laravel • Node.js • Express
 
-## Frontend
+### Database
 
-- React
-- TypeScript
-- JavaScript
-- Vite
-- Tailwind CSS
-- HTML5
-- CSS3
-- Framer Motion
-- Progressive Web Apps (PWA)
+PostgreSQL • MySQL • Supabase
+
+### Payments
+
+PayNow • Stripe • PayPal • Flutterwave • Paystack • M-Pesa • EcoCash
+
+### Cloud
+
+Docker • Netlify • Render • Railway • Cloudflare • GitHub
+
+### AI
+
+ChatGPT • Claude • Gemini • DeepSeek • AI Agents • Prompt Engineering
 
 ---
 
-## Backend
+# 🔥 What I Build
 
-- PHP
-- Laravel
-- Node.js
-- Express
-- Python
-- FastAPI
+- ERP Systems
+- FinTech Platforms
+- AI Business Tools
+- Payment Gateways
+- Booking Systems
+- School Systems
+- Property Platforms
 - REST APIs
-- JWT Authentication
+- Dashboards
+- Internal Business Software
+- WhatsApp Automation
+- SaaS Products
 
 ---
 
-## Databases
-
-- PostgreSQL
-- MySQL
-- Supabase
-
----
-
-## Payments & FinTech
-
-- PayNow Zimbabwe
-- EcoCash API
-- Stripe
-- Payment middleware
-- Signed Webhooks
-- Subscription billing
-
----
-
-## Cloud & DevOps
-
-- Docker
-- Netlify
-- Railway
-- Render
-- Cloudflare
-- cPanel
-- Git
-- GitHub
-
----
-
-# ⭐ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **CAG Travellers** | Passenger booking platform with payments, WhatsApp tickets, multilingual UI and accessibility features |
-| **ManishaPay** | Unified payment middleware for PayNow and future gateways |
-| **AiZim ERP** | Enterprise ERP for hospitality operations with AI assistant |
-| **Hi-Bred Chicks Website** | Modern website concept for poultry business |
-| **Portfolio** | Personal portfolio with editable CMS |
-| **Ridgecrest Junior School** | School management platform |
-| **Orinon Credit** | Consumer credit application platform |
-| **Zim Properties** | Property management platform |
-| **ChurchZim** | Church management system |
-
----
-
-# 💼 What I Build
-
-✔ ERP Systems
-
-✔ FinTech Products
-
-✔ Payment Integrations
-
-✔ AI Business Assistants
-
-✔ WhatsApp Automation
-
-✔ Booking Platforms
-
-✔ School Management Systems
-
-✔ Property Platforms
-
-✔ Dashboards
-
-✔ Internal Business Tools
-
-✔ Multi-tenant SaaS
-
-✔ REST APIs
-
----
-
-# 🎯 Things I Own End-to-End
-
-- Solution Architecture
-- Database Design
-- API Development
-- Authentication & Security
-- Payment Integrations
-- Dashboard Development
-- Responsive UI/UX
-- AI Integration
-- Deployment
-- Documentation
-- Production Support
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=nobytechy&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nobytechy&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobytechy&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobytechy&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nobytechy&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Build Something Great
+# 🌍 Current Focus
 
-I'm available for:
+🚀 Scaling **ManishaPay**
 
-- Full-Stack Software Engineering
-- Product Development
-- Technical Consulting
-- FinTech Projects
-- AI & Automation
-- React Development
-- Laravel Development
-- Node.js Development
-- API Integrations
-- UI/UX-focused Front-End Engineering
+🏢 ERP Development
 
-Whether you're building a startup MVP, modernising an existing platform or automating business workflows, I'd love to help.
+🤖 AI for Business Automation
+
+💳 Financial Technology
+
+☁ Cloud Applications
+
+📱 Modern React Applications
 
 ---
 
-## 📫 Contact
+# 🤝 Open To
 
-📧 **Email**
+✔ Full-Time Opportunities
 
-nobytechy@gmail.com
+✔ Remote Roles
 
-🌐 **Portfolio**
+✔ Freelance Projects
 
-https://nobie.netlify.app
+✔ Technical Consulting
 
-💼 **LinkedIn**
+✔ Startup Partnerships
 
-https://www.linkedin.com/in/nobytechy/
+---
 
-⭐ Thanks for stopping by!
+<div align="center">
+
+## Let's Build Something Amazing 🚀
+
+📧 **nobytechy@gmail.com**
+
+🌐 **https://nobie.netlify.app**
+
+💼 **https://linkedin.com/in/nobytechy**
+
+⭐ If you like my work, consider following my journey!
+
+</div>
