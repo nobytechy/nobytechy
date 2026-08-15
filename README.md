@@ -109,17 +109,16 @@ One REST API + no-code payment links across **11 gateways** — PayNow, Stripe, 
 # 📈 GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nobytechy&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobytechy&layout=compact&theme=transparent&hide_border=true"/>
-
+<img src="https://ghchart.rshah.org/12B76A/nobytechy" alt="Contribution graph" width="90%"/>
 </p>
 
 <p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nobytechy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobytechy&layout=compact&theme=dark&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="Top languages"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nobytechy&theme=transparent&hide_border=true"/>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nobytechy&theme=dark&hide_border=true&background=00000000&ring=12B76A&fire=F2C94C&currStreakLabel=12B76A" alt="Streak"/>
 </p>
 
 ---
