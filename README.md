@@ -46,67 +46,33 @@ I love building software from **idea → architecture → deployment → product
 
 ---
 
-# 🚀 Featured Products
+# 🚀 Featured Work
 
-## 💳 ManishaPay
+> Every project below is live — click any screenshot to open it. Full case studies on [my portfolio →](https://nobie.netlify.app/projects)
 
-Unified Payment Platform
+## 💳 ManishaPay — Payment Gateway Aggregator *(solo-built)*
 
-One API connecting multiple payment gateways.
+One REST API + no-code payment links across **11 gateways** — PayNow, Stripe, PayPal, M-Pesa, Paystack, Flutterwave & more. HMAC-signed webhooks, envelope-encrypted credentials, SDKs, WordPress & WHMCS plugins, 219 automated tests in production.
 
-✔ Stripe
+<a href="https://manishapay.netlify.app"><img src="https://nobie.netlify.app/projects/manishapay.jpg" alt="ManishaPay" width="720"></a>
 
-✔ PayPal
+**🤖 ManishaAI** — the platform's multilingual payments assistant: RAG-grounded, cites sources, writes integration code, answers in **English · Shona · Ndebele · Swahili**.
 
-✔ Flutterwave
+<a href="https://manishapay.netlify.app/ai"><img src="https://nobie.netlify.app/projects/manishaai.jpg" alt="ManishaAI" width="720"></a>
 
-✔ Paystack
-
-✔ PayNow
-
-✔ M-Pesa
-
-✔ EcoCash
-
-✔ Payment Links
-
-✔ Test Mode
-
-🌐 https://manishapay.netlify.app
+🌐 [manishapay.netlify.app](https://manishapay.netlify.app) · 📚 [Open payments dataset](https://github.com/nobytechy/manishapay-dataset) · 🧩 [PHP SDK](https://github.com/nobytechy/manishapay-php)
 
 ---
 
-## 🏢 AIZim ERP
+## 🗂 Client & Platform Work
 
-Enterprise Resource Planning Platform
-
-Modules include:
-
-- Finance
-- Inventory
-- Assets
-- Cashbook
-- Payroll
-- HR
-- Reporting
-- AI Assistant
-- Workflow Automation
-
----
-
-## 🚌 CAG Travellers
-
-Modern Passenger Booking Platform
-
-Features:
-
-- Online Booking
-- QR Tickets
-- WhatsApp Delivery
-- PayNow Payments
-- Voice Booking
-- Accessibility
-- Live Operations Dashboard
+| | |
+|---|---|
+| <a href="https://smartsnap.netlify.app"><img src="https://nobie.netlify.app/projects/smartsnap.jpg" width="440"></a><br>**SmartSnap** — AI CCTV alerting (YOLO/Frigate, FastAPI, WhatsApp) · [repo](https://github.com/nobytechy/smartsnap) | <a href="https://ridgecrest.netlify.app"><img src="https://nobie.netlify.app/projects/ridgecrest.jpg" width="440"></a><br>**Ridgecrest** — multi-tenant school MIS (RLS, PWA) · [repo](https://github.com/nobytechy/ridgecrest) |
+| <a href="https://dzimba.netlify.app"><img src="https://nobie.netlify.app/projects/dzimba.jpg" width="440"></a><br>**Dzimba** — real-estate ERP, rent via ManishaPay | <a href="https://fambah.netlify.app"><img src="https://nobie.netlify.app/projects/famba-fleet.jpg" width="440"></a><br>**Famba Fleet** — fleet & logistics, live tracking · [repo](https://github.com/nobytechy/famba) |
+| <a href="https://kereke.netlify.app"><img src="https://nobie.netlify.app/projects/churchzim.jpg" width="440"></a><br>**ChurchZim** — church management + PayNow giving · [repo](https://github.com/nobytechy/churchzim-erp) | <a href="https://zimrafdms.netlify.app"><img src="https://nobie.netlify.app/projects/zimfdms.jpg" width="440"></a><br>**zimFDMS** — ZIMRA fiscalisation integration · [repo](https://github.com/nobytechy/zimraFDMS) |
+| <a href="https://vytt.netlify.app"><img src="https://nobie.netlify.app/projects/vytt.jpg" width="440"></a><br>**VYTT** — restaurant & conference venue *(concept)* | <a href="https://hibred.netlify.app"><img src="https://nobie.netlify.app/projects/hibred-chicks.jpg" width="440"></a><br>**Hi-Bred Chicks** — poultry brand & ordering *(concept)* |
+| <a href="https://cagtours.netlify.app"><img src="https://nobie.netlify.app/projects/cag-travellers.jpg" width="440"></a><br>**CAG Travellers** — coach booking *(concept)* | **Manisha Butchery** — multi-shop inventory & finance: stock discrepancies **−90%**, reporting time **−75%** · [repo](https://github.com/nobytechy/Manisha_Butchery_Inventory_Financial_Management_System) |
 
 ---
 
