@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm N.Tebulo 👋
+# Hi, I'm Noby Tebulo 👋
 
-### Full-Stack Software Engineer • Product Builder • FinTech • AI • ERP
-
-Building secure, scalable software that solves real business problems across Africa.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=800&color=12B76A&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer;Builder+of+ManishaPay+%E2%80%94+11-gateway+payments+platform;FinTech+%C2%B7+ERP+%C2%B7+AI+%C2%B7+7%2B+years+shipping+production+software;From+idea+%E2%86%92+architecture+%E2%86%92+production" alt="typing intro" />
 
 <p>
 
@@ -30,19 +28,9 @@ Building secure, scalable software that solves real business problems across Afr
 
 # 💻 About Me
 
-I'm a Full-Stack Software Engineer from **Harare, Zimbabwe** with **5+ years** of experience designing, building and deploying production software.
+Full-stack engineer from **Harare, Zimbabwe** — **7+ years** designing, building and deploying production software end to end.
 
-I enjoy transforming business ideas into scalable products covering:
-
-- 💳 FinTech & Payments
-- 🏢 ERP Systems
-- 🤖 AI Applications
-- 📲 WhatsApp Automation
-- 🌍 SaaS Platforms
-- 📊 Dashboards & Analytics
-- 🔗 API Integrations
-
-I love building software from **idea → architecture → deployment → production**.
+I build the systems businesses run on: **payments platforms, ERPs, AI tools and the APIs that connect them** — currently scaling [ManishaPay](https://manishapay.netlify.app) and its AI assistant.
 
 ---
 
@@ -68,56 +56,32 @@ One REST API + no-code payment links across **11 gateways** — PayNow, Stripe, 
 
 | | |
 |---|---|
-| <a href="https://smartsnap.netlify.app"><img src="https://nobie.netlify.app/projects/smartsnap.jpg" width="440"></a><br>**SmartSnap** — AI CCTV alerting (YOLO/Frigate, FastAPI, WhatsApp) · [repo](https://github.com/nobytechy/smartsnap) | <a href="https://ridgecrest.netlify.app"><img src="https://nobie.netlify.app/projects/ridgecrest.jpg" width="440"></a><br>**Ridgecrest** — multi-tenant school MIS (RLS, PWA) · [repo](https://github.com/nobytechy/ridgecrest) |
-| <a href="https://dzimba.netlify.app"><img src="https://nobie.netlify.app/projects/dzimba.jpg" width="440"></a><br>**Dzimba** — real-estate ERP, rent via ManishaPay | <a href="https://fambah.netlify.app"><img src="https://nobie.netlify.app/projects/famba-fleet.jpg" width="440"></a><br>**Famba Fleet** — fleet & logistics, live tracking · [repo](https://github.com/nobytechy/famba) |
-| <a href="https://kereke.netlify.app"><img src="https://nobie.netlify.app/projects/churchzim.jpg" width="440"></a><br>**ChurchZim** — church management + PayNow giving · [repo](https://github.com/nobytechy/churchzim-erp) | <a href="https://zimrafdms.netlify.app"><img src="https://nobie.netlify.app/projects/zimfdms.jpg" width="440"></a><br>**zimFDMS** — ZIMRA fiscalisation integration · [repo](https://github.com/nobytechy/zimraFDMS) |
-| <a href="https://vytt.netlify.app"><img src="https://nobie.netlify.app/projects/vytt.jpg" width="440"></a><br>**VYTT** — restaurant & conference venue *(concept)* | <a href="https://hibred.netlify.app"><img src="https://nobie.netlify.app/projects/hibred-chicks.jpg" width="440"></a><br>**Hi-Bred Chicks** — poultry brand & ordering *(concept)* |
-| <a href="https://cagtours.netlify.app"><img src="https://nobie.netlify.app/projects/cag-travellers.jpg" width="440"></a><br>**CAG Travellers** — coach booking *(concept)* | **Manisha Butchery** — multi-shop inventory & finance: stock discrepancies **−90%**, reporting time **−75%** · [repo](https://github.com/nobytechy/Manisha_Butchery_Inventory_Financial_Management_System) |
+| <a href="https://smartsnap.netlify.app"><img src="https://nobie.netlify.app/projects/smartsnap.jpg" width="440"></a><br>**SmartSnap** — AI CCTV alerting (YOLO/Frigate, FastAPI, WhatsApp) · 🌐 [smartsnap.netlify.app](https://smartsnap.netlify.app) | <a href="https://ridgecrest.netlify.app"><img src="https://nobie.netlify.app/projects/ridgecrest.jpg" width="440"></a><br>**Ridgecrest** — multi-tenant school MIS (RLS, PWA) · 🌐 [ridgecrest.netlify.app](https://ridgecrest.netlify.app) |
+| <a href="https://dzimba.netlify.app"><img src="https://nobie.netlify.app/projects/dzimba.jpg" width="440"></a><br>**Dzimba** — real-estate ERP, rent via ManishaPay · 🌐 [dzimba.netlify.app](https://dzimba.netlify.app) | <a href="https://fambah.netlify.app"><img src="https://nobie.netlify.app/projects/famba-fleet.jpg" width="440"></a><br>**Famba Fleet** — fleet & logistics, live tracking · 🌐 [fambah.netlify.app](https://fambah.netlify.app) |
+| <a href="https://kereke.netlify.app"><img src="https://nobie.netlify.app/projects/churchzim.jpg" width="440"></a><br>**ChurchZim** — church management + PayNow giving · 🌐 [kereke.netlify.app](https://kereke.netlify.app) | <a href="https://zimrafdms.netlify.app"><img src="https://nobie.netlify.app/projects/zimfdms.jpg" width="440"></a><br>**zimFDMS** — ZIMRA fiscalisation integration · 🌐 [zimrafdms.netlify.app](https://zimrafdms.netlify.app) |
+| <a href="https://vytt.netlify.app"><img src="https://nobie.netlify.app/projects/vytt.jpg" width="440"></a><br>**VYTT** — restaurant & conference venue *(concept)* · 🌐 [vytt.netlify.app](https://vytt.netlify.app) | <a href="https://hibred.netlify.app"><img src="https://nobie.netlify.app/projects/hibred-chicks.jpg" width="440"></a><br>**Hi-Bred Chicks** — poultry brand & ordering *(concept)* · 🌐 [hibred.netlify.app](https://hibred.netlify.app) |
+| <a href="https://cagtours.netlify.app"><img src="https://nobie.netlify.app/projects/cag-travellers.jpg" width="440"></a><br>**CAG Travellers** — coach booking *(concept)* · 🌐 [cagtours.netlify.app](https://cagtours.netlify.app) | **Manisha Butchery** — multi-shop inventory & finance: stock discrepancies **−90%**, reporting time **−75%** |
 
 ---
 
 # ⚡ Tech Stack
 
-### Frontend
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FLLM_APIs-12B76A?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-React • TypeScript • JavaScript • Vite • Tailwind CSS • PWA
-
-### Backend
-
-Python • FastAPI • Django • PHP • Laravel • Node.js • Express
-
-### Database
-
-PostgreSQL • MySQL • Supabase
-
-### Payments
-
-PayNow • Stripe • PayPal • Flutterwave • Paystack • M-Pesa • EcoCash
-
-### Cloud
-
-Docker • Netlify • Render • Railway • Cloudflare • GitHub
-
-### AI
-
-ChatGPT • Claude • Gemini • DeepSeek • AI Agents • Prompt Engineering
-
----
-
-# 🔥 What I Build
-
-- ERP Systems
-- FinTech Platforms
-- AI Business Tools
-- Payment Gateways
-- Booking Systems
-- School Systems
-- Property Platforms
-- REST APIs
-- Dashboards
-- Internal Business Software
-- WhatsApp Automation
-- SaaS Products
+**Payments:** PayNow · Stripe · PayPal · M-Pesa · Paystack · Flutterwave · EcoCash — and my own [ManishaPay](https://manishapay.netlify.app) unifying them all.
 
 ---
 
@@ -139,33 +103,9 @@ ChatGPT • Claude • Gemini • DeepSeek • AI Agents • Prompt Engineering
 
 ---
 
-# 🌍 Current Focus
+# 🤝 Now & Next
 
-🚀 Scaling **ManishaPay**
-
-🏢 ERP Development
-
-🤖 AI for Business Automation
-
-💳 Financial Technology
-
-☁ Cloud Applications
-
-📱 Modern React Applications
-
----
-
-# 🤝 Open To
-
-✔ Full-Time Opportunities
-
-✔ Remote Roles
-
-✔ Freelance Projects
-
-✔ Technical Consulting
-
-✔ Startup Partnerships
+🚀 Scaling **ManishaPay** & **ManishaAI** · 🧩 Building the **Odoo payment module** · 🌍 Open to **freelance projects, remote roles & technical consulting**
 
 ---
 
